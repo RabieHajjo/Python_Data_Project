@@ -81,7 +81,7 @@ plt.show()
 ```
 ### Results
 
-![Visualization of Top Skills for Data Nerds](3_Project\skill_demand_all_data_roles.png)
+![alt text](110f8da9-7092-407a-b9f3-be78ee375702.png)
 
 ### Insights
 
@@ -113,7 +113,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in Germany](3_Project\Images\skill_trend_DA.output.png)
+![alt text](f9c16fa2-35f6-4653-a014-83ebebaefcff.png)
 
 *Bar graph visualizing the trending top skills for data analysts in Germany in 2023.*
 
@@ -141,7 +141,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in Germany](3_Project\Images\salary_Distributions_of_DJ_GER.png)
+![alt text](646c1868-6427-4139-890f-f8b96a4e1b8c.png)
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -174,7 +174,7 @@ plt.show()
 
 in-demand skills for data analysts in Germany:
 
-![The Highest Paid & Most In_Demand Skills for Data Analysts in Germany](3_Project\Images\highest_paid_skills_da_germany.png)
+![alt text](0b6ed909-6812-4c93-8469-88b8542cdb97.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 #### Insights: 
@@ -199,7 +199,7 @@ plt.show()
 ```
 #### Results 
 
-![Most Optimal Skills for Data Analysts in the US](3_Project\Images\optimal_skills_for_DA_GER.png)
+![alt text](72ef6c5f-5250-485e-bb64-257feeffeb1e.png)
 
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in Germany.*
 
